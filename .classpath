@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="TiledMapGame-android/gen"/>
+	<classpathentry kind="src" path="TiledMapGame-android/src"/>
+	<classpathentry kind="src" path="TiledMapGame-desktop/src"/>
+	<classpathentry kind="src" path="TiledMapGame/src"/>
+	<classpathentry kind="lib" path="TiledMapGame-android/libs/gdx-backend-android-sources.jar"/>
+	<classpathentry kind="lib" path="TiledMapGame-android/libs/gdx-backend-android.jar"/>
+	<classpathentry kind="lib" path="TiledMapGame-desktop/libs/gdx-backend-lwjgl-natives.jar"/>
+	<classpathentry kind="lib" path="TiledMapGame-desktop/libs/gdx-backend-lwjgl-sources.jar"/>
+	<classpathentry kind="lib" path="TiledMapGame-desktop/libs/gdx-backend-lwjgl.jar"/>
+	<classpathentry kind="lib" path="TiledMapGame-desktop/libs/gdx-natives.jar"/>
+	<classpathentry kind="lib" path="TiledMapGame/libs/gdx-sources.jar"/>
+	<classpathentry kind="lib" path="TiledMapGame/libs/gdx.jar"/>
+	<classpathentry kind="lib" path="TiledMapGame/libs/tween-engine-api-sources.jar"/>
+	<classpathentry kind="lib" path="TiledMapGame/libs/tween-engine-api.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

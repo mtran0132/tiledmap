@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/TiledMapGame-android/libs/gdx-backend-android-sources.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/TiledMapGame-android/libs/gdx-backend-android.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/TiledMapGame-desktop/libs/gdx-backend-lwjgl-natives.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/TiledMapGame-desktop/libs/gdx-backend-lwjgl-sources.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/TiledMapGame-desktop/libs/gdx-backend-lwjgl.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/TiledMapGame-desktop/libs/gdx-natives.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/TiledMapGame/libs/gdx-sources.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/TiledMapGame/libs/gdx.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/TiledMapGame/libs/tween-engine-api-sources.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/TiledMapGame/libs/tween-engine-api.jar!/" />
+    <src_description expected_position="1">
+      <src_folder value="file://$MODULE_DIR$/TiledMapGame-android/gen" expected_position="1" />
+      <src_folder value="file://$MODULE_DIR$/TiledMapGame-android/src" expected_position="2" />
+      <src_folder value="file://$MODULE_DIR$/TiledMapGame-desktop/src" expected_position="3" />
+      <src_folder value="file://$MODULE_DIR$/TiledMapGame/src" expected_position="4" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/TiledMapGame-android/gen" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TiledMapGame-android/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TiledMapGame-desktop/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TiledMapGame/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="gdx-backend-android-sources.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/TiledMapGame-android/libs/gdx-backend-android-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="gdx-backend-android.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/TiledMapGame-android/libs/gdx-backend-android.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="gdx-backend-lwjgl-natives.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/TiledMapGame-desktop/libs/gdx-backend-lwjgl-natives.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="gdx-backend-lwjgl-sources.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/TiledMapGame-desktop/libs/gdx-backend-lwjgl-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="gdx-backend-lwjgl.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/TiledMapGame-desktop/libs/gdx-backend-lwjgl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="gdx-natives.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/TiledMapGame-desktop/libs/gdx-natives.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="gdx-sources.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/TiledMapGame/libs/gdx-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="gdx.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/TiledMapGame/libs/gdx.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tween-engine-api-sources.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/TiledMapGame/libs/tween-engine-api-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tween-engine-api.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/TiledMapGame/libs/tween-engine-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

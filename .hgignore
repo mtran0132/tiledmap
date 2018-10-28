@@ -1,0 +1,5 @@
+syntax: glob
+
+TiledMapGame/bin*
+TiledMapGame-android/bin*
+TiledMapGame-desktop/bin*

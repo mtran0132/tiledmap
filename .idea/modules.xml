@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TiledMapGame/TiledMapGame.iml" filepath="$PROJECT_DIR$/TiledMapGame/TiledMapGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TiledMapGame-android/TiledMapGame-android.iml" filepath="$PROJECT_DIR$/TiledMapGame-android/TiledMapGame-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TiledMapGame-desktop/TiledMapGame-desktop.iml" filepath="$PROJECT_DIR$/TiledMapGame-desktop/TiledMapGame-desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiledmapgame.iml" filepath="$PROJECT_DIR$/tiledmapgame.iml" />
+    </modules>
+  </component>
+</project>

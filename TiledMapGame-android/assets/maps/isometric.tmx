@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="50" height="50" tilewidth="64" tileheight="32">
+ <tileset firstgid="1" name="isotiles" tilewidth="64" tileheight="64">
+  <image source="iso-64x64-outside.png" width="640" height="1024"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3YMQrAIAxG4eClcgUH73+eLl0KHYpEkvx9wzebJ4LiMLMBACjDC8wQ1aHSgv9ROrtKLQAAKFkFZoiae7cl650y75nfzAJ7HNHSrQPAk9qfilILAKCfqHuowv0cub5bbtOJ9f2D0z0Z+5fRCwAdXJxWqz4QJwAA
+  </data>
+ </layer>
+</map>

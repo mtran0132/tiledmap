@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="right-down" width="50" height="25" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="7">
+ <tileset firstgid="1" name="tiles" tilewidth="16" tileheight="16" spacing="1" margin="1" tilecount="480" columns="20">
+  <image source="tiles.png" width="343" height="410"/>
+  <tile id="10">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="20">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="60">
+   <properties>
+    <property name="animation" value="flower"/>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="80">
+   <properties>
+    <property name="animation" value="flower"/>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="140">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="141">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="143">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="161">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="162">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="163">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="220">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="221">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="222">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="240">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="241">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="242">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="260">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="261">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="262">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="280">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="282">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="481" source="dungeon.tsx"/>
+ <layer id="1" name="background" width="50" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACmNkYGBgHMWjeBSP4lE8igch1mYaeDeMYvJx7xCxf6DdOYqHB+aFYkrN4UbDgVjE8GFamDmKhy4WpaI5pJpFSD213EbNsBpsbiI3LEUZUP1DjL8G0v/o7qVVvJEaJoMpjoeKPYMtXEl1O73yAQBVOy6WiBMAAA==
+  </data>
+ </layer>
+ <layer id="2" name="foreground" width="50" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3NQQkAAAgAMcsawvZW8COIbAHuIgAAYCaf/Gqpe+UHANzUCr6l7YgTAAA=
+  </data>
+ </layer>
+ <objectgroup id="3" name="objects">
+  <object id="1" x="144" y="240" width="80" height="16"/>
+  <object id="2" x="192" y="224">
+   <polyline points="0,0 464,0 528,-16 560,-16"/>
+  </object>
+  <object id="3" x="448" y="160" width="48" height="48">
+   <ellipse/>
+  </object>
+  <object id="4" x="144" y="192">
+   <polygon points="0,0 48,-32 0,-64 0,-48 -96,-48 -96,-16 0,-16"/>
+  </object>
+  <object id="5" x="288" y="80" width="80" height="48">
+   <ellipse/>
+  </object>
+  <object id="6" gid="271" x="504" y="119" width="16" height="16"/>
+ </objectgroup>
+</map>

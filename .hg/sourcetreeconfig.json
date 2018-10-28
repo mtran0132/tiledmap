@@ -1,0 +1,30 @@
+{
+  "$id": "7",
+  "AutoRefresh": true,
+  "AutoRefreshRemotes": true,
+  "CommitTextLinks": null,
+  "DraftCommitMsg": "",
+  "IncomingSavedCount": 0,
+  "LastCheckedRemotes": "2018-10-15T15:57:09.3847744-07:00",
+  "LastUsedView": 1,
+  "LogBranchFilterIndex": 0,
+  "OutgoingSavedCount": 0,
+  "RemoteProjectLinks": [
+    {
+      "$id": "8",
+      "BaseUrl": "https://bitbucket.org/",
+      "Identifier": "dermetfan/tiledmapgame",
+      "RemoteName": "origin",
+      "Type": 1,
+      "Username": "theconstantone",
+      "CloneUrl": "https://theconstantone@bitbucket.org/dermetfan/tiledmapgame",
+      "DisplayName": "origin: https://bitbucket.org/"
+    }
+  ],
+  "SidebarExpandedItems": [
+    "File Status",
+    "Branches"
+  ],
+  "SidebarWidth": 210.0,
+  "SubtreeLinks": []
+}
